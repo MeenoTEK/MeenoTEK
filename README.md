@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Ameen Shokoya.
+
+- 🔭 I’m currently learning Android development with Jetpack Compose
+- I have been a technical support engineer for the past 3 years
+- I love helping people
+- 👯 I’m looking to take on technical writing gigs
+
 <!--
 **MeenoTEK/MeenoTEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
