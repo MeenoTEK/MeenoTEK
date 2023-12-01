@@ -1,23 +1,27 @@
-### Hi there 👋
 
-My name is Ameen Shokoya.
+## 🚀 About Me
+I'm an Android developer with <1year of experience. 
 
-- 🔭 I’m currently learning Android development with Jetpack Compose
-- I have been a technical support engineer for the past 3 years
-- I love helping people
-- 👯 I’m looking to take on technical writing gigs
 
-<!--
-**MeenoTEK/MeenoTEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ameen! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 I'm currently working on building apps with Compose
+
+🧠 I'm currently learning Jetpack Compose
+
+👯‍♀️ I'm looking to collaborate on any Android project
+
+🤔 I'm looking for help with building complex UIs
+
+💬 Ask me about anything Android
+
+📫 You can reach me on [Twitter](https://twitter.com/lilmeeno) and [Medium](https://medium.com/@MeenoTeK)
+
+
+⚡️ Fun fact - I am an intermediate Spanish speaker and a technical support Engineer
+
+
+## 🛠 Skills
+Kotlin, XML, Android Studio, Git
+
